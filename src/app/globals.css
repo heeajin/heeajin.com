@@ -25,3 +25,15 @@ body {
     text-wrap: balance;
   }
 }
+
+.post h2 {
+  font-size: 1.6em;
+}
+
+.post table tr {
+  border-bottom: 1px solid lightgrey;
+}
+.post table tr td {
+  padding-right: 1em;
+  padding-left: 1em;;
+}
